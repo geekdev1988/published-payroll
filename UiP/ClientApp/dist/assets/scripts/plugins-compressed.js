@@ -1,0 +1,10 @@
+//=require jquery/dist/jquery.min.js
+//=require bootstrap/dist/js/bootstrap.min.js
+//=require lightbox2/dist/js/lightbox.min.js
+//=require jQuery.mmenu/dist/jquery.mmenu.all.min.js
+//=require headroom.js/dist/headroom.min.js
+//=require headroom.js/dist/jQuery.headroom.min.js
+//=require masonry/dist/masonry.pkgd.min.js
+//=require jquery-nice-select/js/jquery.nice-select.min.js
+//=require jquery-accordion/js/jquery.accordion.js
+//=require owl.carousel/dist/owl.carousel.min.js

@@ -1,0 +1,339 @@
+{
+  "orderTypes": [
+    {
+      "itemTypeId": 1,
+      "itemTypeName": "Payslips and P60",
+      "customerMaster": [],
+      "extraItemDetails": []
+    },
+    {
+      "itemTypeId": 2,
+      "itemTypeName": "Payslips Only",
+      "customerMaster": [],
+      "extraItemDetails": []
+    },
+    {
+      "itemTypeId": 3,
+      "itemTypeName": "P60 Only",
+      "customerMaster": [],
+      "extraItemDetails": []
+    },
+    {
+      "itemTypeId": 4,
+      "itemTypeName": "P45 Only",
+      "customerMaster": [],
+      "extraItemDetails": []
+    }
+  ],
+  "titles": [
+    {
+      "titleId": 1,
+      "title": "Mr",
+      "customerMaster": []
+    },
+    {
+      "titleId": 2,
+      "title": "Mrs",
+      "customerMaster": []
+    },
+    {
+      "titleId": 3,
+      "title": "Miss",
+      "customerMaster": []
+    },
+    {
+      "titleId": 4,
+      "title": "Ms",
+      "customerMaster": []
+    },
+    {
+      "titleId": 5,
+      "title": "Dr",
+      "customerMaster": []
+    },
+    {
+      "titleId": 6,
+      "title": "Sir",
+      "customerMaster": []
+    },
+    {
+      "titleId": 7,
+      "title": "Prof",
+      "customerMaster": []
+    },
+    {
+      "titleId": 8,
+      "title": "The Rev",
+      "customerMaster": []
+    },
+    {
+      "titleId": 9,
+      "title": "The Hon",
+      "customerMaster": []
+    }
+  ],
+  "salaryTypes": [
+    {
+      "salaryAmountTypeId": 1,
+      "salaryAmountType": "Gross",
+      "employerMaster": [],
+      "p45details": [],
+      "p60details": []
+    },
+    {
+      "salaryAmountTypeId": 2,
+      "salaryAmountType": "Net",
+      "employerMaster": [],
+      "p45details": [],
+      "p60details": []
+    }
+  ],
+  "salaryPaidTypes": [
+    {
+      "salaryTypeId": 1,
+      "salaryType": "Cash",
+      "employerMaster": []
+    },
+    {
+      "salaryTypeId": 2,
+      "salaryType": "Cheque",
+      "employerMaster": []
+    },
+    {
+      "salaryTypeId": 3,
+      "salaryType": "BACS",
+      "employerMaster": []
+    },
+    {
+      "salaryTypeId": 4,
+      "salaryType": "Credit Transfer",
+      "employerMaster": []
+    }
+  ],
+  "payslipTypes": [
+    {
+      "payslipTypeId": 1,
+      "payslipType": "Monthly",
+      "payslipDetails": []
+    },
+    {
+      "payslipTypeId": 2,
+      "payslipType": "Weekly",
+      "payslipDetails": []
+    },
+    {
+      "payslipTypeId": 3,
+      "payslipType": "Fortnightly",
+      "payslipDetails": []
+    },
+    {
+      "payslipTypeId": 4,
+      "payslipType": "Four Weekly",
+      "payslipDetails": []
+    }
+  ],
+  "taxYears": [
+    {
+      "taxYearId": 1,
+      "taxYear": "2008 - 2009",
+      "p60details": []
+    },
+    {
+      "taxYearId": 2,
+      "taxYear": "2007 - 2008",
+      "p60details": []
+    },
+    {
+      "taxYearId": 3,
+      "taxYear": "2006 - 2007",
+      "p60details": []
+    },
+    {
+      "taxYearId": 4,
+      "taxYear": "2005 - 2006",
+      "p60details": []
+    },
+    {
+      "taxYearId": 5,
+      "taxYear": "2004 - 2005",
+      "p60details": []
+    },
+    {
+      "taxYearId": 6,
+      "taxYear": "2003 - 2004",
+      "p60details": []
+    },
+    {
+      "taxYearId": 15,
+      "taxYear": "2009 - 2010",
+      "p60details": []
+    },
+    {
+      "taxYearId": 17,
+      "taxYear": "2010 - 2011",
+      "p60details": []
+    },
+    {
+      "taxYearId": 18,
+      "taxYear": "2011 - 2012",
+      "p60details": []
+    },
+    {
+      "taxYearId": 19,
+      "taxYear": "2012 - 2013",
+      "p60details": []
+    },
+    {
+      "taxYearId": 20,
+      "taxYear": "2013 - 2014",
+      "p60details": []
+    },
+    {
+      "taxYearId": 24,
+      "taxYear": "2014 - 2015",
+      "p60details": []
+    },
+    {
+      "taxYearId": 25,
+      "taxYear": "2015 - 2016",
+      "p60details": []
+    },
+    {
+      "taxYearId": 26,
+      "taxYear": "2016 - 2017",
+      "p60details": []
+    },
+    {
+      "taxYearId": 27,
+      "taxYear": "2017 - 2018",
+      "p60details": []
+    },
+    {
+      "taxYearId": 28,
+      "taxYear": "2018 - 2019",
+      "p60details": []
+    }
+  ],
+  "deliveryTypes": [
+    {
+      "deliveryTypeId": 1,
+      "deliveryTypeName": "1st Class Recorded Post (Free of Charge)",
+      "price": 0.0000,
+      "deliveryDetails": []
+    },
+    {
+      "deliveryTypeId": 2,
+      "deliveryTypeName": "Next Day Guaranteed Delivery before 1.00 PM (Charge £ 9.95)",
+      "price": 9.9500,
+      "deliveryDetails": []
+    },
+    {
+      "deliveryTypeId": 3,
+      "deliveryTypeName": "Next Day Guaranteed Delivery before 9.00 AM (Charge £ 19.95)",
+      "price": 19.9500,
+      "deliveryDetails": []
+    },
+    {
+      "deliveryTypeId": 5,
+      "deliveryTypeName": "Saturday Guaranteed Delivery before 1.00 PM (Charge £ 14.95)",
+      "price": 14.9500,
+      "deliveryDetails": []
+    },
+    {
+      "deliveryTypeId": 6,
+      "deliveryTypeName": "Overseas Delivery by Royal Mail Airsure (Charge £ 15.00)",
+      "price": 15.0000,
+      "deliveryDetails": []
+    }
+  ],
+  "extraItemMasters": [
+    {
+      "extraItemId": 4,
+      "extraItemName": "Special Employee Number",
+      "price": 4.9500,
+      "errorMessage": "Please enter Special Employee Number in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 5,
+      "extraItemName": "Department Name",
+      "price": 4.9500,
+      "errorMessage": "Please enter Depart Name in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 6,
+      "extraItemName": "Other Name/Number",
+      "price": 4.9500,
+      "errorMessage": "Please enter Other Name or Number in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 7,
+      "extraItemName": "Loans Deduction",
+      "price": 4.9500,
+      "errorMessage": "Please enter Loans Deduction in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 8,
+      "extraItemName": "Overtime Payment",
+      "price": 4.9500,
+      "errorMessage": "Please enter Overtime Payment in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 9,
+      "extraItemName": "Pension Deduction",
+      "price": 4.9500,
+      "errorMessage": "Please enter Pension Deduction in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 10,
+      "extraItemName": "Bonus Payment",
+      "price": 4.9500,
+      "errorMessage": "Please enter Bonus Payment in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 11,
+      "extraItemName": "Med Insurance Deduction",
+      "price": 4.9500,
+      "errorMessage": "Please enter Med Insurance Deduction in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 12,
+      "extraItemName": "Commission Payment",
+      "price": 4.9500,
+      "errorMessage": "Please enter Commission Payment in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 13,
+      "extraItemName": "Other Deduction",
+      "price": 4.9500,
+      "errorMessage": "Please enter Other Deduction in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    },
+    {
+      "extraItemId": 14,
+      "extraItemName": "Other Payment",
+      "price": 4.9500,
+      "errorMessage": "Please enter Other Payment in the Extras Information Box",
+      "extraDetails": [],
+      "extraItemDetails": []
+    }
+  ]
+}
